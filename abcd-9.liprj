@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="2c0aa80f-01c5-44dc-905e-56f7166b1798">
+    <ProjectFile Source="Target/NewProject4.flprj" Target="Target/NewProject4.flprj" />
+</LingoProject>

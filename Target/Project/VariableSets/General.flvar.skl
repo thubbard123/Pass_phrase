@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="" Name="CompanyName" EvaluatedDefinition="FictionSoft">砻קยด1ตว融</Variable>
+    <Variable Comment="" Name="PhoneNumber">砻קยด2ตว融</Variable>
+    <Variable Name="Year" Comment="" Type="DateTime" LastUpdated="2018-01-16T08:02:20.5245049-08:00" EvaluatedDefinition="yyyy">砻קยด3ตว融</Variable>
+    <Variable Name="Updated" Comment="" Type="DateTime" LastUpdated="2018-06-07T11:23:57.7806534-07:00" EvaluatedDefinition="MMMM dd, yyyy">砻קยด4ตว融</Variable>
+    <Variable Name="Product 1" Comment="" EvaluatedDefinition="Product 1">砻קยด5ตว融</Variable>
+    <Variable Name="Product 2" Comment="" EvaluatedDefinition="Product 2">砻קยด6ตว融</Variable>
+    <Variable Name="Product 3" Comment="" EvaluatedDefinition="Product 3">砻קยด7ตว融</Variable>
+    <Variable Name="Facebook" Comment="" EvaluatedDefinition="http://www.facebook.com/madcapdocteam">砻קยด8ตว融</Variable>
+    <Variable Name="Twitter" Comment="" EvaluatedDefinition="https://twitter.com/#!/MadCapDocTeam">砻קยด9ตว融</Variable>
+    <Variable Name="Email" Comment="" EvaluatedDefinition="info@yourcompany.com">砻קยด10ตว融</Variable>
+    <Variable Name="CityStateZip" Comment="" EvaluatedDefinition="La Jolla, CA 92037">砻קยด11ตว融</Variable>
+    <Variable Name="StreetAddress" Comment="" EvaluatedDefinition="1234 Lorem Ipsum Ave.">砻קยด12ตว融</Variable>
+</CatapultVariableSet>
